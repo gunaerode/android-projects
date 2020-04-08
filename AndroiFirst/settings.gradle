@@ -1,0 +1,2 @@
+rootProject.name='AndroiFirst'
+include ':app'
