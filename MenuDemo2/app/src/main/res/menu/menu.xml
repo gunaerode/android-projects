@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tamil"
+        android:title="Tamil" />
+    <item android:title="English" android:id="@+id/english" />
+    <item android:title="Language" android:id="@+id/language" />
+    <item android:title="Clear" android:id="@+id/clear" />
+</menu>
